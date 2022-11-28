@@ -1,0 +1,43 @@
+{
+ "Shot": {
+  "Health": 100,
+  "IsSuccess": false
+ },
+ "Round": {
+  "ShouldBeOverOnMiss": true,
+  "DelayMs": 4000,
+  "DelayDev": 1000,
+  "IsOver": false,
+  "Start": "0001-01-01T00:00:00Z",
+  "Target": {
+   "Width": 0,
+   "Height": 0,
+   "XDev": 0,
+   "YDev": 0,
+   "Health": 0,
+   "X": 0,
+   "Y": 0,
+   "IsKilled": false
+  },
+  "IsSuccess": false,
+  "Elapsed": 0
+ },
+ "OverallScore": {
+  "A": 1615,
+  "B": 1776
+ },
+ "Field": {
+  "Height": 800,
+  "Width": 1000
+ },
+ "Target": {
+  "Width": 120,
+  "Height": 120,
+  "XDev": 0,
+  "YDev": 0,
+  "Health": 100,
+  "X": 0,
+  "Y": 0,
+  "IsKilled": false
+ }
+}
