@@ -21,8 +21,8 @@ func newTarget() Target {
 	x := (fieldPrototype.Width - target.Width) / 2
 	y := (fieldPrototype.Height - target.Height) / 2
 
-	x += rand.Float32()*target.XDev*2 + target.XDev
-	y += rand.Float32()*target.YDev*2 + target.YDev
+	x += rand.Float32()*target.XDev*2 - target.XDev
+	y += rand.Float32()*target.YDev*2 - target.YDev
 
 	target.X = x
 	target.Y = y

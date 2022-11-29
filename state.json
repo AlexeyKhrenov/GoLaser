@@ -1,6 +1,6 @@
 {
  "Shot": {
-  "Health": 100,
+  "Health": 50,
   "IsSuccess": false
  },
  "Round": {
@@ -23,8 +23,8 @@
   "Elapsed": 0
  },
  "OverallScore": {
-  "A": 1615,
-  "B": 1776
+  "A": 1769,
+  "B": 1965
  },
  "Field": {
   "Height": 800,
@@ -33,8 +33,8 @@
  "Target": {
   "Width": 120,
   "Height": 120,
-  "XDev": 0,
-  "YDev": 0,
+  "XDev": 200,
+  "YDev": 200,
   "Health": 100,
   "X": 0,
   "Y": 0,
